@@ -2,6 +2,11 @@
 
 ## Introduction
 
+### Background
+Virginia Social Services (VDSS) is a system of regional supervision and management services. Providing supervision and guidelines for 120 regional offices throughout the country, VDSS offers a variety of services and benefits for Virginia, more than 17 million people each year. The VDSS program is designed to help Virginia's most vulnerable citizens find a permanent solution to many challenges of life. This department is responsible for managing various programs, including temporary support for poor families (TANF), support programs for complementary nutrition (SNAP), Medicaid, adoption, parental support, the Regeneration of refugees and services to protect children and adults.
+Virginia, with approximately 19,000 hospital beds has 566 licensed Long-term Care Facilities (LCFs). LCFs must operate according to Commonwealth of Virginia, Chapter 73, Title 22 standards for licensed assisted living facilities. During 2017-2019, Virginia generated more than 20,000 breach audit reports (11% related to drug use and compliance). A study of 100 narrative audit reports randomly selected by Motti & Sherry (2021) identified eight categories of drug regulatory violations.
+To solve this problem and better understand it, we are aiming to generate a statistics on Medicine Administration Violations form LFC’s audit reports
+
 ### Problem Space
 A bulge in the aging population and improved healthcare has resulted in increased demand for services at LCFs. Virginia generated over 20,000 violation-related audit reports in the period 2017-2020, and 11% of them are related to medication administration and adherence.
 Although they collected vast documentations, there is no method, tool, or visual analytics approach to facilitate the interpretation of violations and their causes, through data mining in error reports. Still, the analysis of violations is crucial to understand and characterize violations, and propose measures and systems aimed to prevent future incidents. 
@@ -9,7 +14,7 @@ In the previous study, they analyzed a random sample of 100 violations extracted
 The VA DSS would like to analyze all 20000 narrative Audit Reports related to Medicine Administration and generate statistics to provide more insights and understanding of the errors, and it is the goal of our research.
 With the result of the research, it would be helpful to ensure that the medication regimen is followed in compliance with state laws to prevent errors. Also, it is important to consider that residents of long-term living facilities are not always capable of caring for themselves, therefore residents with severe cognitive impairments require trusted support staff members to care for them. Otherwise, there are fatal consequences associated with wrong medication intake, leading to health issues, additional costs, or even death risks.
 
-Project Objectives
+### Project Objectives
 This project goal is generated statistics on Medicine Administration Violations from narrative Long-term Care Facility (LCF) Audit reports.
 
 In this process, our team will learn how to collect data of real-world including structure and unstructured data. Then, we will learn how to deal with them to transform to useful statistics information by text mining. Finally, we will learn how to present the result of NLP by several visualization techniques.
